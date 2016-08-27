@@ -10,3 +10,7 @@ This project was motivated by wanting to implement Home Automation using my Amaz
 
 ## Design descriptin
 Once completed I will have two version, one with two switches and a second with only one. The design will incorporate an ESP12E chip, alnog with all the necessary power conversion (110v to +5v, and 3.3V). The circuit design will include current sensing on the common wire, so that the system will know the state of the light even if the non-wifi switch was used to turn it on.
+
+## Pictures
+The ESP12E chip makes a good solution for this effort in that it is small and easy to work with. 
+![Alt text](/pictures/ESP12E.jpg?raw=true "ESP12#")
