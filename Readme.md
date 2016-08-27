@@ -15,7 +15,7 @@ Once completed I will have two version, one with two switches and a second with 
 The ESP12E chip makes a good solution for this effort in that it is small and easy to work with. 
 ![Alt text](/pictures/ESP12E1.JPG?raw=true "ESP12#")
 
-In order to fit properly in the Standard 2 gange Electrical outlet box the whole circuit must be <3" x 1.8" with a depth of about an 1 1/2". This leaves adequate space for wires and connections. If you have a single box you can get away with a litlle more (3" x 2" x 1.75"), but i plan to make them all a standard size to fit any box.
+In order to fit properly in the Standard 2 gange Electrical outlet box the whole circuit must be <3" x 1.8" with a depth of about an 1 1/2". This leaves adequate space for wires and connections. If you have a single box you can get away with a litlle more (3" x 2" x 1.75"), but I plan to make them all a standard size to fit any box.
 
 ![Alt text](/pictures/Switch%20Cover1.JPG?raw=true "Switch Cover#")
 
