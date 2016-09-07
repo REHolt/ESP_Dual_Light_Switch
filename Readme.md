@@ -26,6 +26,6 @@ It also needs to fit under a cover like this, so that it will work with a standa
 ## PCB Layout Images
 I have submitted the first version of the PCB to OSH Park for build. It will be at least a week before I have anything back. The Board has been accepted and assigned to a Panel
 
-![Alt text](/pictures/LightSwitch_Top.png?raw=true "PCB Top Layer")
+![Alt text](/pictures/LightSwitch_Top.png?raw=true "PCB Top Layer#")
 
-![Alt text](/pictures/LightSwitch_Bottom.png?raw=true "PCB Bottom Layer")
+![Alt text](/pictures/LightSwitch_Bottom.png?raw=true "PCB Bottom Layer#") 
