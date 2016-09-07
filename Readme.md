@@ -19,6 +19,12 @@ In order to fit properly in the Standard 2 gange Electrical outlet box the whole
 
 ![Alt text](/pictures/Switch%20Cover1.JPG?raw=true "Switch Cover#")
 
+## PCB Layout Images
+I have submitted the first version of the PCB to OSH Park for build. It will be at least a week before I have anything back. The Board has been accepted and assigned to a Panel
+![Alt text](/pictures/LightSwitch_Top.png?raw=true "PCB Top Layer")
+
+![Alt text](/pictures/LightSwitch_Bottom.png?raw=true "Switch Cover#")
+
 It also eeds to fit under a cover like this, so that it will work with a standard light switch cover. the trick wil be to find a way to mount the board so that you can push the buttons. My current thought is to design a cover and have it printed on a 3D printer.
 
 ![Alt text](/pictures/Switch%20Outlet%20Box1.JPG?raw=true "Single Outlet box#")
